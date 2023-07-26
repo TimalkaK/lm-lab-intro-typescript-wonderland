@@ -86,10 +86,10 @@ Think about how would you make _good_ use of TypeScript. Even something as simpl
 
 TIPS:
 
--   You may have to `npm install typescript` and figure out how to get it working in your particular project.
--   Remember TypeScript needs to be compiled into JavaScript by _tsc_.
--   We can use "nodemon" along with "ts-node" to automatically compile & run TypeScript code.
--   Have a look at the `package.json` in this Alice project for ideas of dependencies and how `npm start` can be set up to work with TypeScript code.
--   Or you may want to set up a fresh TypeScript project from scratch. Commands like `npm init` and `git init` will be useful.
+- You may have to `npm install typescript` and figure out how to get it working in your particular project.
+- Remember TypeScript needs to be compiled into JavaScript by _tsc_.
+- We can use "nodemon" along with "ts-node" to automatically compile & run TypeScript code.
+- Have a look at the `package.json` in this Alice project for ideas of dependencies and how `npm start` can be set up to work with TypeScript code.
+- Or you may want to set up a fresh TypeScript project from scratch. Commands like `npm init` and `git init` will be useful.
 
 As ever, reach out on Slack if you need any help figuring things out. Have fun 😊
